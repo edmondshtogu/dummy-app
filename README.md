@@ -9,4 +9,6 @@ A very simple container to show a static HTML page, used to test web deployments
 ## Status
 [![Build & Push Image](https://github.com/edmondshtogu/dummy-app/actions/workflows/build-and-push-image.yml/badge.svg)](https://github.com/edmondshtogu/dummy-app/actions/workflows/build-and-push-image.yml)
 
-Built by [Edmond Shtogu](https://github.com/edmondshtogu)
+## Contributor 
+
+- [Edmond Shtogu](https://github.com/edmondshtogu)
